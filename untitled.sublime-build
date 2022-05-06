@@ -1,0 +1,4 @@
+{
+	"shell_cmd": ["c:/program Files/nodejs/node.exe","$file"],
+	"selector":"source.js"
+}
